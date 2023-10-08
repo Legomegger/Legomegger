@@ -11,7 +11,7 @@ Contact me: legomegakst@gmail.com.
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ```ruby
 def languages
-	["ruby", "javascript", "c"]
+  ["ruby", "javascript", "c"]
 end
 ```
 
